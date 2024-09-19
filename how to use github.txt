@@ -1,0 +1,9 @@
+
+
+git installation:
+
+1. install git on your computer
+2. create a new folder where you want to add git repo.
+3. navigate to this folder in your console, i.e. open console and type cd "path to repo folder "
+
+type 
